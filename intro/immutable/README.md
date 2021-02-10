@@ -7,6 +7,8 @@
 
 ## Bolygók felfedezése
 
+A fő feladat az `Astronomer` osztály elkészítése, de annak vannak előfeltételei, függőségei. Olvasd el az egészet, majd haladj szépen sorban. Ha mindenzeket megcsináltad, lefodul, de nem fog csinálni semmit!
+
 Hozz létre egy `Planet` nevű osztályt, amelynek állapota nem változhat! Most csak olyan attribútumok vannak,
 amelyek nem változnak. A Bolygót, amikor felfedezik, akkor meghatározzák az átmérőjét, és 
 el is nevezik (tároljuk azeket a radius, name attribútumokba). (A bolygó életében ezek az adatok nem fognak változni.)
