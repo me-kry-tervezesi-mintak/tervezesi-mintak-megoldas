@@ -1,11 +1,14 @@
 package hu.bitbot.designpatterns.behavioural.chainofresponsibility;
 
+import lombok.Generated;
+
 /**
  * Created by zoltankrizsan on 2017. 01. 13..
  */
 public class Main {
 	static PayBackChain firstChain;
 
+	@Generated
 	public static void main(String[] args) {
 		firstChain = new Storage100Ft(new DriverImpl());
 

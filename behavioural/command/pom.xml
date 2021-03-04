@@ -23,7 +23,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>hu.bitbot.designpatterns.behavioural.Main</mainClass>
+                            <mainClass>hu.bitbot.designpatterns.behavioural.state.Main</mainClass>
                         </manifest>
                     </archive>
                 </configuration>

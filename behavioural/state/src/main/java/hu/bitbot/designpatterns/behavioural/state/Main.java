@@ -1,8 +1,11 @@
-package hu.bitbot.designpatterns.behavioural;
+package hu.bitbot.designpatterns.behavioural.state;
+
+import lombok.Generated;
 
 import java.util.Scanner;
 
 public class Main {
+	@Generated
 	public static void main(String[] args) {
 		DvdPlayerContext dvdPlayerContext = new DvdPlayerContext();
 		dvdPlayerContext.setLength(1000);

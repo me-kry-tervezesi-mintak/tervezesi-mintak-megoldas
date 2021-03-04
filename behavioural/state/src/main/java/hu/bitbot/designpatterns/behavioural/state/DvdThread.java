@@ -1,6 +1,4 @@
-package hu.bitbot.designpatterns.behavioural;
-
-import java.util.Scanner;
+package hu.bitbot.designpatterns.behavioural.state;
 
 /**
  * Created by zoltankrizsan on 2017. 01. 16..

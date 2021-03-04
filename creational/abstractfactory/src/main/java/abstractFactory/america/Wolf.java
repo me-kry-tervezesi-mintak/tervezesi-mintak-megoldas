@@ -8,6 +8,5 @@ import abstractFactory.Herbivore;
  */
 public class Wolf implements Carnivore {
 	public void eat(Herbivore herbivore) {
-		System.out.println(toString() + "eats the " + herbivore.toString());
 	}
 }
