@@ -14,8 +14,8 @@ public class BucketList implements Serializable {
 		list.add(newDream);
 	}
 
+	@Override
 	public Object clone() throws CloneNotSupportedException {
-		super.clone();
 		Object clone;
 
 		clone = SerializationUtils.clone(this);

@@ -1,9 +1,6 @@
 package solid.base;
 
 import org.junit.Test;
-import solid.base.UserController;
-import solid.base.UserService;
-import solid.base.Validator;
 
 import java.util.ArrayList;
 import java.util.List;

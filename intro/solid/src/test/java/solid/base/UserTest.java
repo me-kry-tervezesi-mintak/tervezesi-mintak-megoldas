@@ -1,7 +1,6 @@
 package solid.base;
 
 import org.junit.Test;
-import solid.base.User;
 
 import static org.hamcrest.CoreMatchers.is;
 import static org.junit.Assert.*;
