@@ -46,7 +46,7 @@ A `ItalicAndBoldHtmlText` a vastag betűt megvalósító osztály az `isa` csoma
 
 Vegyük észre, hogy minden variációra külön osztály kell (pl.: vastagbetűs és aláhúzott és dőlt).
 
-## Második megoldás származtatással
+## Második megoldás tartalmazással (decorator minta)
 
 Most oldjuk meg ezt a feladatot tartalmazással, a dekorátor minta segítségével.
 
