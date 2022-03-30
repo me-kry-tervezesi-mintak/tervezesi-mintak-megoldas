@@ -26,3 +26,11 @@ pl.: ha meghívják 523 összeggel, akkor
 * a Storage100Ft visszaad 5 db-ot, majd hívja a következőt 23-al
 * a Storage10Ft visszaad 2 db-ot, majd továbbad 3  értéket.
 * az utolsó Storage1Ft visszaad 3-at.
+
+Kidolgozando példa
+Adat import esetén több féle szürés lehet.
+Ha az adatbazisban ki van töltve egy mező és az abban szerepel, akkor felvesszük a beemelendoö adatok közzé.
+Ha null az érték, akkor nem tudunk mit mondani átadjuk a jogot a következőnek.
+pl ha ki van töltve az engedélyezett termék id és benne van,
+ha ki van töltve a termék név minta, és illeszkedik rá
+a sor legvégén áll egy komponens, ami mindenképpen hozzáadja.
